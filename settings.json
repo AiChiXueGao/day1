@@ -1,0 +1,13 @@
+
+{
+    "files.associations": 
+    {        
+        "*.txt": "dockercompose",
+        "board.h": "c",
+        "rtdevice.h": "c",       
+        "drv_gpio.h": "c",        
+        "rtthread.h": "c",        
+        "drv_matrix_led.h": "c"    
+    },    
+    "cortex-debug.openocdPath": "X:/workspace/OpenOCD-20231002-0.12.0/bin/openocd.exe"
+}
